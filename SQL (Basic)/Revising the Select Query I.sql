@@ -1,13 +1,10 @@
 /*
-SKILL: SQL (Basic)
-DIFFICULTY: Easy
-SUBDOMAIN: Basic Select
-
-CHALLENGE: Revising the Select Query I
-
+     SKILL: 	SQL (Basic)
+DIFFICULTY: 	Easy
+ SUBDOMAIN: 	Basic Select
+ CHALLENGE: 	Revising the Select Query I
 *********************************************************************************
 */
-
 
 SELECT *
 FROM CITY
